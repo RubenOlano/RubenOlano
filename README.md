@@ -4,7 +4,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubenolano" alt="rubenolano" /></a> </p>
 
-- 🔭 I’m currently working on [Group Pray](https://group-pray.vercel.app)
+- 🔭 I’m currently working on [Jupiter](https://jupiter.utdnebula.com/)
 - 🌱 I’m currently learning **Rust for use in backend web development**
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/RubenOlano)
 - 💬 Ask me about **NextJS, T3 App, and Rust**
