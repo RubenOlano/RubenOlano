@@ -14,7 +14,7 @@
 - 🚀 **Building** [**ACM Website**](https://acmutd.co) - Web site for all ACM UTD Info
 - 🐹 **Deep Diving** into **Go** - Building distributed systems and high-performance APIs
 - 🔭 Exploring **Cloud Native** patterns with Docker & Kubernetes
-- 📚 Graduate CS Student @ UT Dallas - Specializing in Systems Programming
+- 📚 Graduate CS Student @ UT Dallas
 
 ## 🛠️ Tech Stack
 
